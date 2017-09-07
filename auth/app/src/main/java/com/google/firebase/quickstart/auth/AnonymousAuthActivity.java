@@ -13,6 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+/*
 
 package com.google.firebase.quickstart.auth;
 
@@ -33,9 +34,11 @@ import com.google.firebase.auth.EmailAuthProvider;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
+*/
 /**
  * Activity to demonstrate anonymous login and account linking (with an email/password account).
- */
+ *//*
+
 public class AnonymousAuthActivity extends BaseActivity implements
         View.OnClickListener {
 
@@ -206,3 +209,4 @@ public class AnonymousAuthActivity extends BaseActivity implements
         }
     }
 }
+*/

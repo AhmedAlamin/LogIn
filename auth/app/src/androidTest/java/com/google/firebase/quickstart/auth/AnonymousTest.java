@@ -1,3 +1,4 @@
+/*
 package com.google.firebase.quickstart.auth;
 
 import android.support.test.espresso.Espresso;
@@ -80,3 +81,4 @@ public class AnonymousTest {
 
     }
 }
+*/

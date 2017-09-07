@@ -1,4 +1,4 @@
-package com.google.firebase.quickstart.auth;
+/*package com.google.firebase.quickstart.auth;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -167,4 +167,4 @@ public class TwitterLoginActivity extends BaseActivity
             signOut();
         }
     }
-}
+}*/

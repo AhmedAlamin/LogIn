@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+/*
 package com.google.firebase.quickstart.auth;
 
 import android.os.Bundle;
@@ -242,3 +243,4 @@ public class EmailPasswordActivity extends BaseActivity implements
         }
     }
 }
+*/

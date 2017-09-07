@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+/*
 package com.google.firebase.quickstart.auth;
 
 import android.content.Intent;
@@ -40,9 +41,11 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
 
+*/
 /**
  * Demonstrate Firebase Authentication using a Google ID Token.
- */
+ *//*
+
 public class GoogleSignInActivity extends BaseActivity implements
         GoogleApiClient.OnConnectionFailedListener,
         View.OnClickListener {
@@ -81,7 +84,11 @@ public class GoogleSignInActivity extends BaseActivity implements
         // [END config_signin]
 
         mGoogleApiClient = new GoogleApiClient.Builder(this)
-                .enableAutoManage(this /* FragmentActivity */, this /* OnConnectionFailedListener */)
+                .enableAutoManage(this */
+/* FragmentActivity *//*
+, this */
+/* OnConnectionFailedListener *//*
+)
                 .addApi(Auth.GOOGLE_SIGN_IN_API, gso)
                 .build();
 
@@ -227,3 +234,4 @@ public class GoogleSignInActivity extends BaseActivity implements
         }
     }
 }
+*/
