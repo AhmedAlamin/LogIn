@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "431331396950",
+    "firebase_url": "https://teamchat-3f990.firebaseio.com",
+    "project_id": "teamchat-3f990",
+    "storage_bucket": "teamchat-3f990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431331396950:android:f7de25d3f7c76376",
+        "android_client_info": {
+          "package_name": "com.example.galloj6.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431331396950-rnqrl11saoogs0b6icroteuvhdn4ie8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.galloj6.login",
+            "certificate_hash": "1c0e88370b9a5c44f6dcd698114b80c218699c87"
+          }
+        },
+        {
+          "client_id": "431331396950-f3s2eivaqh4gc276nu3c9mt5m0piq9o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0Sqdzwo_vm8fCbByLv0S4WvdTuGu7Rc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431331396950-f3s2eivaqh4gc276nu3c9mt5m0piq9o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
