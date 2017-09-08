@@ -7,14 +7,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbeed9be-3dc7-4a8c-a6f2-f47ff4ca7a9c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/app/src/androidTest/java/com/google/firebase/quickstart/auth/AnonymousTest.java" afterPath="$PROJECT_DIR$/auth/app/src/androidTest/java/com/google/firebase/quickstart/auth/AnonymousTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-hdpi/tc_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-mdpi/tc_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-xhdpi/tc_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-xxhdpi/tc_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-xxxhdpi/tc_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/auth/app/src/main/tc_launcher-web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/auth/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/AnonymousAuthActivity.java" afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/AnonymousAuthActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/ChooserActivity.java" afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/ChooserActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/CustomAuthActivity.java" afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/CustomAuthActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/EmailPasswordActivity.java" afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/EmailPasswordActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/GoogleSignInActivity.java" afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/GoogleSignInActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/TwitterLoginActivity.java" afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/TwitterLoginActivity.java" />
     </list>
     <ignored path="quickstart-android-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,62 +53,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/auth/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/auth/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="43" selection-end-column="60" />
+            <state relative-caret-position="153">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding>
-                <marker date="1504802351462" expanded="false" signature="810:837" ph="&quot;Custom Authentication&quot;" />
-                <marker date="1504802351462" expanded="false" signature="934:964" ph="&quot;Firebase + Google Sign In&quot;" />
-                <marker date="1504802351462" expanded="false" signature="1197:1226" ph="&quot;Email/Password Authentication&quot;" />
-                <marker date="1504802351462" expanded="false" signature="1520:1550" ph="&quot;Anonymous Authentication&quot;" />
+                <element signature="e#1058#1088#0" expanded="true" />
+                <element signature="e#1376#1402#0" expanded="true" />
+                <marker date="1504905029332" expanded="false" signature="803:830" ph="&quot;Custom Authentication&quot;" />
+                <marker date="1504905029332" expanded="false" signature="927:957" ph="&quot;Firebase + Google Sign In&quot;" />
+                <marker date="1504905029332" expanded="false" signature="1190:1219" ph="&quot;Email/Password Authentication&quot;" />
+                <marker date="1504905029332" expanded="false" signature="1513:1543" ph="&quot;Anonymous Authentication&quot;" />
               </folding>
             </state>
           </provider>
-          <provider editor-type-id="android-manifest">
+        </entry>
+      </file>
+      <file leaf-file-name="tc_launcher-web.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth/app/src/main/tc_launcher-web.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ic_launcher-web.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth/app/src/main/ic_launcher-web.png">
+          <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/app/src/minSdkIcs/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="android-manifest">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/auth/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,10 +103,17 @@
       <file leaf-file-name="EmailPasswordTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/app/src/androidTest/java/com/google/firebase/quickstart/auth/EmailPasswordTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth/app/src/screen.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -128,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhoneAuthActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PhoneAuthActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/PhoneAuthActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4233">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,7 +142,7 @@
       <file leaf-file-name="TokenBroadcastReceiver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/TokenBroadcastReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="170">
               <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
               <folding />
             </state>
@@ -4822,10 +4821,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1592" />
     <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -4838,7 +4837,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -4852,6 +4851,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -4870,80 +4872,90 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="quickstart-android-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="quickstart-android-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quickstart-android-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quickstart-android-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="auth" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="quickstart-android-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickstart-android-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickstart-android-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+              <option name="myItemId" value="quickstart-android-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickstart-android-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickstart-android-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -5276,15 +5288,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="1592" y="-8" width="2576" height="1416" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259053" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18521462" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -5292,8 +5304,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20843521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Assistant" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32273838" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12877584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -5304,6 +5315,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Assistant" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32273838" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -5325,11 +5337,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/auth/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5369,7 +5396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5409,47 +5435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5481,7 +5466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5514,11 +5498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <marker date="1504801496724" expanded="false" signature="2050:2066" ph="&quot;Sign In&quot;" />
-            <marker date="1504801496724" expanded="false" signature="2179:2241" ph="&quot;User ID: {}&quot;" />
-            <marker date="1504801496724" expanded="false" signature="2272:2337" ph="&quot;Email: {}&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5526,16 +5505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="174" column="21" selection-start-line="174" selection-start-column="21" selection-end-line="174" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#7506#0" expanded="true" />
-            <marker date="1504801496513" expanded="false" signature="2867:3012" ph="(task) → {" />
-            <marker date="1504801496513" expanded="false" signature="3926:3949" ph="}" />
-            <marker date="1504801496513" expanded="false" signature="4760:4905" ph="(task) → {" />
-            <marker date="1504801496513" expanded="false" signature="5649:5672" ph="}" />
-            <marker date="1504801496513" expanded="false" signature="6669:6710" ph="&quot;User ID: {user.getUid()}&quot;" />
-            <marker date="1504801496513" expanded="false" signature="6743:6789" ph="&quot;Email: {user.getEmail()}&quot;" />
-            <marker date="1504801496513" expanded="false" signature="6836:6855" ph="&quot;Signed Out&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5543,18 +5512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="245" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
-          <folding>
-            <marker date="1504801496455" expanded="false" signature="3081:3226" ph="(task) → {" />
-            <marker date="1504801496455" expanded="false" signature="4144:4167" ph="}" />
-            <marker date="1504801496455" expanded="false" signature="4547:4692" ph="(task) → {" />
-            <marker date="1504801496455" expanded="false" signature="5603:5623" ph="&quot;Authentication failed&quot;" />
-            <marker date="1504801496455" expanded="false" signature="5755:5778" ph="}" />
-            <marker date="1504801496455" expanded="false" signature="6263:6396" ph="(task) → {" />
-            <marker date="1504801496455" expanded="false" signature="7248:7271" ph="}" />
-            <marker date="1504801496455" expanded="false" signature="8053:8158" ph="&quot;Email User: {user.getEmail()} (verified: {user.isEmailV...&quot;" />
-            <marker date="1504801496455" expanded="false" signature="8197:8251" ph="&quot;Firebase User: {user.getUid()}&quot;" />
-            <marker date="1504801496455" expanded="false" signature="8634:8653" ph="&quot;Signed Out&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5562,18 +5519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="678">
           <caret line="230" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#8747#0" expanded="true" />
-            <marker date="1504801496629" expanded="false" signature="5133:5278" ph="(task) → {" />
-            <marker date="1504801496629" expanded="false" signature="6197:6220" ph="}" />
-            <marker date="1504801496629" expanded="false" signature="6682:6834" ph="(ResultCallback) (status) → { " />
-            <marker date="1504801496629" expanded="false" signature="6849:6889" ph=" }" />
-            <marker date="1504801496629" expanded="false" signature="7115:7267" ph="(ResultCallback) (status) → { " />
-            <marker date="1504801496629" expanded="false" signature="7282:7322" ph=" }" />
-            <marker date="1504801496629" expanded="false" signature="7473:7527" ph="&quot;Google User: {user.getEmail()}&quot;" />
-            <marker date="1504801496629" expanded="false" signature="7566:7620" ph="&quot;Firebase User: {user.getUid()}&quot;" />
-            <marker date="1504801496629" expanded="false" signature="7833:7852" ph="&quot;Signed Out&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5581,13 +5526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="746">
           <caret line="150" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#5102#0" expanded="true" />
-            <marker date="1504801496584" expanded="false" signature="1986:2089" ph="(TokenBroadcastReceiver) (token) → {" />
-            <marker date="1504801496584" expanded="false" signature="2188:2203" ph="}" />
-            <marker date="1504801496584" expanded="false" signature="3120:3265" ph="(task) → {" />
-            <marker date="1504801496584" expanded="false" signature="4053:4076" ph="}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5595,9 +5533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1804">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#607#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5605,10 +5540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#607#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5616,7 +5547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5624,9 +5554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#612#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5634,7 +5561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5642,15 +5568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-          <folding>
-            <marker date="1504801496679" expanded="false" signature="1582:1622" ph="&quot;REPLACE_ME&quot;" />
-            <marker date="1504801496679" expanded="false" signature="1640:1683" ph="&quot;REPLACE_ME&quot;" />
-            <marker date="1504801496679" expanded="false" signature="4072:4217" ph="(task) → {" />
-            <marker date="1504801496679" expanded="false" signature="5136:5159" ph="}" />
-            <marker date="1504801496679" expanded="false" signature="5453:5514" ph="&quot;Twitter User: {user.getDisplayName()}&quot;" />
-            <marker date="1504801496679" expanded="false" signature="5553:5607" ph="&quot;Firebase User: {user.getUid()}&quot;" />
-            <marker date="1504801496679" expanded="false" signature="5825:5844" ph="&quot;Signed Out&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5658,9 +5575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-461">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#3381#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5668,7 +5582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5676,7 +5589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5684,7 +5596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5708,7 +5619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5716,14 +5626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth/app/src/androidTest/java/com/google/firebase/quickstart/auth/EmailPasswordTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -5736,31 +5638,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="43" selection-end-column="60" />
-          <folding>
-            <marker date="1504802351462" expanded="false" signature="810:837" ph="&quot;Custom Authentication&quot;" />
-            <marker date="1504802351462" expanded="false" signature="934:964" ph="&quot;Firebase + Google Sign In&quot;" />
-            <marker date="1504802351462" expanded="false" signature="1197:1226" ph="&quot;Email/Password Authentication&quot;" />
-            <marker date="1504802351462" expanded="false" signature="1520:1550" ph="&quot;Anonymous Authentication&quot;" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/auth/app/src/minSdkIcs/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth/app/src/minSdkIcs/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/BaseActivity.java">
@@ -5768,6 +5654,24 @@
         <state relative-caret-position="68">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/TokenBroadcastReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/PhoneAuthActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -5779,20 +5683,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/TokenBroadcastReceiver.java">
+    <entry file="file://$PROJECT_DIR$/auth/app/src/androidTest/java/com/google/firebase/quickstart/auth/EmailPasswordTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        <state relative-caret-position="391">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/PhoneAuthActivity.java">
+    <entry file="file://$PROJECT_DIR$/auth/app/src/screen.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/app/src/main/tc_launcher-web.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/app/src/main/ic_launcher-web.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4233">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1058#1088#0" expanded="true" />
+            <element signature="e#1376#1402#0" expanded="true" />
+            <marker date="1504905029332" expanded="false" signature="803:830" ph="&quot;Custom Authentication&quot;" />
+            <marker date="1504905029332" expanded="false" signature="927:957" ph="&quot;Firebase + Google Sign In&quot;" />
+            <marker date="1504905029332" expanded="false" signature="1190:1219" ph="&quot;Email/Password Authentication&quot;" />
+            <marker date="1504905029332" expanded="false" signature="1513:1543" ph="&quot;Anonymous Authentication&quot;" />
           </folding>
         </state>
       </provider>
