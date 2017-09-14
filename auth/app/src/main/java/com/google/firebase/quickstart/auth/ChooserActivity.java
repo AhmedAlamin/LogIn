@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+/*
 package com.google.firebase.quickstart.auth;
 
 import android.content.Context;
@@ -106,3 +107,4 @@ public class ChooserActivity extends AppCompatActivity implements AdapterView.On
         }
     }
 }
+*/

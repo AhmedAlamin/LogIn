@@ -75,6 +75,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\galloj6\.android\build-cache\e691a5fa11f9d0b2eeeb41ddfa895e15ff756f04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="C:\Users\galloj6\Desktop\TeamChat\quickstart-android-master\auth\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_746ba0902e753b53ed84bbd17ce8e77904df0344.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\galloj6\.android\build-cache\a765a92713f3e0c983df55b9491112d9a99924cd\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -201,6 +210,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\galloj6\.android\build-cache\6e7c580388632d81f4aee4647128b52d8c0cc78b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="C:\Users\galloj6\Desktop\TeamChat\quickstart-android-master\auth\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_e1ad5852aa5652c9680088bd2fec5615a1147ecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\galloj6\.android\build-cache\8dbfc4cf3f3028565a5fab25fa98152787307f15\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -234,6 +252,15 @@
         revision="25.0.3"
         sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
         <dex dex="C:\Users\galloj6\Desktop\TeamChat\quickstart-android-master\auth\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_0fccd27af9a8b88593a59ad048016be75335d093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\galloj6\.android\build-cache\802fe72f891a14ecb997514dc4947c7d8d388c24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="C:\Users\galloj6\Desktop\TeamChat\quickstart-android-master\auth\app\build\intermediates\pre-dexed\minSdkIcs\debug\classes_753bb7c770321e7ae880c96dfab6b527c377a06d.jar" />
     </item>
     <item
         is-multidex="false"

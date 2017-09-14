@@ -2,6 +2,7 @@ package com.google.firebase.quickstart.auth;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
+import android.content.Intent;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
@@ -352,6 +353,9 @@ public class PhoneAuthActivity extends AppCompatActivity implements
 
             mStatusText.setText(R.string.signed_in);
             mDetailText.setText(getString(R.string.firebase_status_fmt, user.getUid()));
+
+            Intent loggedin= new Intent(PhoneAuthActivity.this,AdMobActivity.class);
+            startActivity(loggedin);
         }
     }
 
