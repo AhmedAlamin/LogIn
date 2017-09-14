@@ -1,4 +1,4 @@
-/**
+/*
  * Copyright 2016 Google Inc. All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+/*
 package com.google.firebase.quickstart.auth;
 
 import android.content.BroadcastReceiver;
@@ -22,10 +23,12 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.util.Log;
 
-/**
+*/
+/*
  * Receiver to capture tokens broadcast via ADB and insert them into the
  * running application to facilitate easy testing of custom authentication.
- */
+ *//*
+
 public abstract class TokenBroadcastReceiver extends BroadcastReceiver {
 
     private static final String TAG = "TokenBroadcastReceiver";
@@ -51,3 +54,4 @@ public abstract class TokenBroadcastReceiver extends BroadcastReceiver {
     public abstract void onNewToken(String token);
 
 }
+*/

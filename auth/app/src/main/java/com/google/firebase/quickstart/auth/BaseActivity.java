@@ -1,4 +1,4 @@
-package com.google.firebase.quickstart.auth;
+/*package com.google.firebase.quickstart.auth;
 
 import android.app.ProgressDialog;
 import android.support.annotation.VisibleForTesting;
@@ -31,4 +31,4 @@ public class BaseActivity extends AppCompatActivity {
         hideProgressDialog();
     }
 
-}
+}*/
