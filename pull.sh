@@ -1,4 +1,5 @@
 #!/bin/bash
 
-git reset --hard HEAD
-git pull master
+git fetch origin master
+git reset --hard origin/master
+
