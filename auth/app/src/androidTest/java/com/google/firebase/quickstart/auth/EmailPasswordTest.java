@@ -27,7 +27,7 @@ import static android.support.test.espresso.matcher.ViewMatchers.withParent;
 import static android.support.test.espresso.matcher.ViewMatchers.withText;
 import static org.hamcrest.CoreMatchers.allOf;
 
-@LargeTest
+/*@LargeTest
 @RunWith(AndroidJUnit4.class)
 public class EmailPasswordTest {
 
@@ -160,4 +160,4 @@ public class EmailPasswordTest {
         return String.valueOf(((new Random()).nextInt(100000)));
     }
 
-}
+}*/

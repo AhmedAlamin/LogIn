@@ -19,21 +19,26 @@ Define the namespace and AdView layout that will show the banner.
         android:src="@drawable/firebase_lockup_400"
         android:id="@+id/imageView2" />
 
-    <Button
+<!--    <Button
         android:id="@+id/load_interstitial_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="ca-app-pub-7772555017276219/2363610288" />
+        android:text="test" />-->
 
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
+        android:visibility="visible"
         ads:adSize="BANNER"
-        ads:adUnitId="ca-app-pub-7772555017276219/2363610288" />
+        ads:adUnitId="@string/banner_ad_unit_id"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="141dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <EditText
         android:id="@+id/welcome_message"

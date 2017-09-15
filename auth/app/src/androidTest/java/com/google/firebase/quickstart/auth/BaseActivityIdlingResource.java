@@ -6,6 +6,7 @@ import android.support.test.espresso.IdlingResource;
 /**
  * Monitor Activity idle status by watching ProgressDialog.
  */
+/*
 public class BaseActivityIdlingResource implements IdlingResource {
 
     private BaseActivity mActivity;
@@ -37,3 +38,4 @@ public class BaseActivityIdlingResource implements IdlingResource {
         mCallback = callback;
     }
 }
+*/

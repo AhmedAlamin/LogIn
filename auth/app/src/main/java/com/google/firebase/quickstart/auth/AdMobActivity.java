@@ -19,6 +19,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.VisibleForTesting;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.AppCompatTextView;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -41,6 +43,7 @@ public class AdMobActivity extends AppCompatActivity {
     private InterstitialAd mInterstitialAd;
     private Button mLoadInterstitialButton;
     // [END_EXCLUDE]
+    private Button mSignOutButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -60,8 +63,8 @@ public class AdMobActivity extends AppCompatActivity {
         // [START instantiate_interstitial_ad]
         // Create an InterstitialAd object. This same object can be re-used whenever you want to
         // show an interstitial.
-        mInterstitialAd = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-7772555017276219/2363610288");
+      /*  mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId(getString(R.string.interstitial_ad_unit_id));
         // [END instantiate_interstitial_ad]
 
         // [START create_interstitial_ad_listener]
@@ -98,7 +101,7 @@ public class AdMobActivity extends AppCompatActivity {
                 if (mInterstitialAd.isLoaded()) {
                     mInterstitialAd.show();
                 } else {
-                    // beginSecondActivity();
+                     beginSecondActivity();
                 }
             }
         });
@@ -108,9 +111,6 @@ public class AdMobActivity extends AppCompatActivity {
         mLoadInterstitialButton.setEnabled(mInterstitialAd.isLoaded());
     }
 
-    /**
-     * Load a new interstitial ad asynchronously.
-     */
     // [START request_new_interstitial]
     private void requestNewInterstitial() {
         AdRequest adRequest = new AdRequest.Builder()
@@ -120,13 +120,13 @@ public class AdMobActivity extends AppCompatActivity {
     }
     // [END request_new_interstitial]
 
-/*    private void beginSecondActivity() {
+    private void beginSecondActivity() {
         Intent intent = new Intent(this, SecondActivity.class);
         startActivity(intent);
-    }*/
+    }
 
     // [START add_lifecycle_methods]
-    /** Called when leaving the activity */
+    /*//** Called when leaving the activity *//**//*
     @Override
     public void onPause() {
         if (mAdView != null) {
@@ -135,7 +135,7 @@ public class AdMobActivity extends AppCompatActivity {
         super.onPause();
     }
 
-    /** Called when returning to the activity */
+    /*//** Called when returning to the activity *//**//*
     @Override
     public void onResume() {
         super.onResume();
@@ -147,7 +147,7 @@ public class AdMobActivity extends AppCompatActivity {
         }
     }
 
-    /** Called before the activity is destroyed */
+    /*//** Called before the activity is destroyed *//**//*
     @Override
     public void onDestroy() {
         if (mAdView != null) {
@@ -159,6 +159,7 @@ public class AdMobActivity extends AppCompatActivity {
 
     @VisibleForTesting
     AdView getAdView() {
-        return mAdView;
+        return mAdView;*/
     }
+
 }

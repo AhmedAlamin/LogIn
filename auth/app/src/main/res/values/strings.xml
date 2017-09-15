@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Firebase Authentication</string>
+     <!-- banner for admob -->
+    <string name="banner_ad_unit_id">ca-app-pub-7772555017276219/2363610288</string>
 
     <string name="label_google_sign_in">Firebase + Google Sign In</string>
     <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>

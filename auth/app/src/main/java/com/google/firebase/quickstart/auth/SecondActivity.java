@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/*package com.google.firebase.quickstart.auth;
+package com.google.firebase.quickstart.auth;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -27,4 +27,4 @@ public class SecondActivity extends AppCompatActivity {
         setContentView(R.layout.second_activity);
     }
 
-}*/
+}
