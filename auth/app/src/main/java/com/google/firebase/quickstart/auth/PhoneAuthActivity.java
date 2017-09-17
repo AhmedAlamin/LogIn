@@ -354,8 +354,8 @@ public class PhoneAuthActivity extends AppCompatActivity implements
             mStatusText.setText(R.string.signed_in);
             mDetailText.setText(getString(R.string.firebase_status_fmt, user.getUid()));
 
-            Intent loggedin = new Intent(PhoneAuthActivity.this, HomePage.class);
-            startActivity(loggedin);
+            Intent homepage = new Intent(PhoneAuthActivity.this, HomePageActivity.class);
+            startActivity(homepage);
         }
     }
 

@@ -21,7 +21,7 @@
         </activity>
     <!--   Admob -->
         <activity
-            android:name=".AdMobActivity"
-            android:label="@string/app_name" />
+            android:name=".HomePageActivity"
+            android:label="Home Page" />
     </application>
 </manifest>
