@@ -341,7 +341,7 @@ public class PhoneAuthActivity extends AppCompatActivity implements
             mPhoneNumberViews.setVisibility(View.VISIBLE);
             mSignedInViews.setVisibility(View.GONE);
 
-            mStatusText.setText(R.string.signed_out);;
+            mStatusText.setText(R.string.signed_out);
         } else {
             // Signed in
             mPhoneNumberViews.setVisibility(View.GONE);
@@ -354,7 +354,7 @@ public class PhoneAuthActivity extends AppCompatActivity implements
             mStatusText.setText(R.string.signed_in);
             mDetailText.setText(getString(R.string.firebase_status_fmt, user.getUid()));
 
-            Intent loggedin= new Intent(PhoneAuthActivity.this,HomePage.class);
+            Intent loggedin = new Intent(PhoneAuthActivity.this, HomePage.class);
             startActivity(loggedin);
         }
     }
